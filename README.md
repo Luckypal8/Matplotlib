@@ -1,4 +1,4 @@
-# Matplotlib
+# Matplotlib --- please review Pharma-matplotlib.ipynb for the assignment grading
 
 Observations
 Based on data - Capomulin and Ramicane reduces the size of tumors better.
